@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Radio Al\'s Repair and Resale',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Radio Al\'s repair and resale for ham radio, amateur radio, tube amps, AM recievers, AM transmitters, AM transcievers, military radios, test equipment, and more.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
