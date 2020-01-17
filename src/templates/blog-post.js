@@ -27,6 +27,10 @@ export const BlogPostTemplate = ({
             </h1>
             <p>{description}</p>
             <PostContent content={content} />
+            <div style={{ marginTop: `4rem` }}>
+              <h2>Local pickup ONLY. Buyer must pickup in Cleveland, Ohio. NO shipping offered.</h2>
+              <h3>Feel free to <Link to="/contact/">Contact Us</Link> to discuss pricing and availability.</h3>
+            </div>
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>
