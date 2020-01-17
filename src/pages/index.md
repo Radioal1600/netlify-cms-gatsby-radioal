@@ -12,12 +12,12 @@ description: >-
   Your source for pristine ham radio restorations, tube amps, AM recievers, transmitters, transcievers, military radios, test equipment, meters, and more.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/radio.png
       text: >
         We offer a small, but carefully curated selection of amateur radio gear and
         parts for every collector. No matter if you're into AM, FM, Military, or Test Equipment, you’ll find a radio
         to fall in love with in our shop.
-    - image: /img/coffee-gear.png
+    - image: /img/tube.png
       text: >
         We've got you covered on properly restored radios and equipment. See the items from the collection
         that are for sale below.
