@@ -8,7 +8,7 @@ description: >-
   Hammarlund HQ 129X HF Receiver, Includes the original case. Super Clean and
   works great and very sensitive.  An all-time favorite receiver of amateurs
   during the immediate post-WW II time frame
-featuredpost: false
+featuredpost: true
 featuredimage: /img/129x.jpg
 tags:
   - Vintage
