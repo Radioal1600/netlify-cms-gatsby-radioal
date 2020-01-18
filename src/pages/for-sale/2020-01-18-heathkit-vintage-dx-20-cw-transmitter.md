@@ -5,7 +5,7 @@ date: 2020-01-18T00:10:25.787Z
 description: |-
   Description:
   CW TRANSMITTER. 80 - 10 METERS, CRYSTAL CONTROLLED, 50 WATT INPUT
-featuredpost: false
+featuredpost: true
 featuredimage: /img/DX20.jpg
 tags:
   - Original
