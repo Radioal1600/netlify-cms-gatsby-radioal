@@ -14,4 +14,6 @@ featuredimage: /img/P1170011.JPG
 tags:
   - Clean
 ---
+*The National NC-270 is a dual conversion amateur band receiver capable of AM and SSB/CW communications. The NC-270 tunes:  3.5-4, 7-7.3, 14-14.4, 21-21.5, 28-29.7 and 50-54 MHz.*
+
 ![](/img/P1170011.JPG)
