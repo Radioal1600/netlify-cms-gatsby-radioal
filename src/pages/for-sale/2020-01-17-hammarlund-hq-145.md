@@ -1,8 +1,6 @@
 ---
 templateKey: blog-post
-title: >-
-  Hammarlund HQ-129X completely restored, all new capacitors, new tubes and
-  aligned.
+title: Hammarlund HQ-129X completely restored.
 date: 2020-01-17T03:51:34.553Z
 description: >-
   Hammarlund HQ 129X HF Receiver, Includes the original case. Super Clean and
@@ -20,5 +18,7 @@ Bandspread: 80, 40, 20, 15 and 10 meters. Other enhancements include: antenna tr
 This radio does not have a built in speaker. There are speaker terminals on the rear panel. Eleven tubes. 117 VAC 60 Hz. 20.125 x 11 x 13.5 inches 47 lbs.
 
 <!--EndFragment-->
+
+![](/img/129x.jpg)
 
 ![](/img/129inside.jpg)
