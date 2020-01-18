@@ -19,6 +19,6 @@ tags:
 ---
 **New CRT installed in this vintage 564 scope. Clean and has been gone over replacing a few caps and testing all the tubes, many replaced.**
 
-![](/img/IMG_0014.JPG)
-
 ![](/img/IMG_0013.JPG)
+
+![](/img/IMG_0011.JPG)
