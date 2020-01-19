@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Heathkit Seneca VHF-1 6 an d 2 meter AM CW Transmitter. Chrome knobs nice.
+title: Heathkit Seneca VHF-1 Six and Two meter AM / CW Transmitter.
 date: 2020-01-19T01:28:49.907Z
 description: |-
   Power Input:. 6 meters 140 watts CW, 120 watts Phone (peak) 
@@ -53,4 +53,4 @@ featuredimage: /img/Seneca.jpg
 tags:
   - vhf-1
 ---
-![](/img/Seneca.jpg)
+![Power Input:. 6 meters 140 watts CW, 120 watts Phone (peak) 2 meters 110 watts CW, 95 watts Phone ](/img/Seneca.jpg)
