@@ -20,6 +20,15 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
               <PageContent className="content" content={content} />
             </div>
           </div>
+          <div className="column is-12 has-text-centered">
+            <h3 className="has-text-weight-semibold is-size-2">
+              Classic RadioAl.com
+            </h3>
+            <p>A blast from the past (circa 11/05/97) checkout the original radioal.com webiste.</p>
+            <Link className="btn" to="https://vintage.radio-al.com">
+              Allen's Amateur Radio Info Page
+            </Link>
+          </div>
         </div>
       </div>
     </section>
